@@ -19,6 +19,7 @@
 
 # 欢迎一起来参加这个活动
 需要加入我们的微信群，目前群里人比较多，可以添加下方的微信，回复 面试群，她会给你发送入群邀请。
+
 <img alt="bot qr code" src="https://github.com/RemoteCodeCamp/Blockchain-Companions/assets/169240108/607a927c-ea3b-4a2a-9daa-6999b1ae381f" width="150px" />
 
 需要加入我们的微信群，目前群里人比较多，可以添加下方小助手机器人的微信，回复 面试群，她会给你发送入群邀请。
